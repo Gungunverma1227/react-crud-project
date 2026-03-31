@@ -1,42 +1,27 @@
-# React-JS--Crud-Mysql
+# 🛍️ React CRUD Project
 
- <p align="center">
-  <img src="client/src/assets/to_readme/ScrimShop.gif" width="600px">
-</p>
+This is a simple CRUD (Create, Read, Update, Delete) application built using React.
 
-## Installation
+## 🚀 Features
+- Add new products
+- View product list
+- Simple and clean UI
+- Data stored in local storage
 
-### Client
+## 🧑‍💻 Tech Stack
+- React JS
+- CSS
 
-  1. `$ cd client`
-  2. `$ npm install` or `$ yarn install`
-  3. `$ npm start` or `$ yarn start`
-  
-### Server
+## 📸 Screenshots
+(Add your project screenshot here)
 
-  1. Change your mySQL database data `server/index.js`
-  2. `$ cd server`
-  3. `$ npm install` or `$ yarn`
-  4. `$ npm rum devStart`
-  
-## Functionalities
+## ▶️ How to Run
+1. Clone the repo
+2. Run `npm install`
+3. Run `npm start`
 
-  + Create games in the database
-  + Read games in the database
-  + Update games in the database
-  + Delete games in the database
-  + Click card to edit and delete
-  
-## Used Libraries
+## 🌐 Live Demo
+(Will be added later)
 
-### Front-end
-
- + `@material-ui`
- +  `Axios`
-
-### Back-end
-
-+ `express`
-+ `mysql`
-+ `nodemon`
-+ `cors`
+## 📌 Author
+Gungun Verma
